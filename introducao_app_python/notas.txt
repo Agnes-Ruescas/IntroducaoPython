@@ -1,0 +1,4 @@
+Rafael, 10, 10, 5, 5
+Felipe, 7, 8, 5, 6
+Matheus, 10, 8, 8, 9
+Cesar, 7, 9, 3, 8
